@@ -1,13 +1,13 @@
-#Django-Newsletter-suscribeApp
+Django-Newsletter-suscribeApp
 
-##Description:
+Description:
 This app shows how's the newsletters works and how to deal with mailing part with django.
 
-###Requirements:
+Requirements:
 -django==2.0
 -python==3.5 or newer
 
-###How to Run:
+How to Run:
 1. Download this clone to your system.
 2. Fullfill the above requirements.
 3. Then simply move towards manage.py file in website directory.
