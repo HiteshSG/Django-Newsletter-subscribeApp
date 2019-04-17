@@ -1,4 +1,4 @@
-#Django-Newsletter-suscribeApp#
+Django-Newsletter-suscribeApp
 
 Description:
 This app shows how's the newsletters works and how to deal with mailing part with django.
